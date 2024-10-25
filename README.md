@@ -1,1 +1,3 @@
-# pythonAssignment
+# pythonASS
+# python
+# pythonfridayAssignment
